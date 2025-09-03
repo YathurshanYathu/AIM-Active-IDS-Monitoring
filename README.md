@@ -41,7 +41,7 @@ By combining these two powerful open-source tools, AIM ensures that your primary
 2.  **Snort Setup:** Install Snort on the Windows VM, configure it to run as a service, and verify its ability to detect basic threats.
 3.  **Wazuh Installation:** Follow the official [Wazuh installation guide](https://documentation.wazuh.com/) to set up the Wazuh manager on the Ubuntu VM.
 4.  **Agent Configuration:** Install the Wazuh agent on the Windows VM and configure `ossec.conf` to monitor the Snort directory.
-5.  **Custom Rules:** Add the custom rules provided in the `configs/` folder to your Wazuh manager to enable service monitoring and specific alerts.
+5.  **Custom Rules:** Add the custom rules to your Wazuh manager to enable service monitoring and specific alerts.
 6.  **Email (Gmail) Integration:** Configure Wazuh to send email alerts. This requires adding your Gmail SMTP details to the `/var/ossec/etc/ossec.conf` file on the Wazuh manager. Make sure to use an App Password for your Gmail account for security.
 7.  **Telegram Integration:** Set up a Telegram bot via [@BotFather](https://t.me/botfather) and configure the `telegram_alert.py` script to forward Wazuh alerts to your security channel.
 
