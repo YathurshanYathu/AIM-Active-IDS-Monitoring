@@ -50,8 +50,9 @@ By combining these two powerful open-source tools, AIM ensures that your primary
 ### 🎓 Authors
 
 * **S. Yathurshan**
+* **Sethnim Dilneth**
 * **M. S. H. Azeel**
 * **Thenupa Methnuka**
 * **Ravishka Lashan**
 * **Kasun Thilanga**
-* **Sethnim Dilneth**
+
