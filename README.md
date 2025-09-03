@@ -1,7 +1,7 @@
 ### AIM – Active IDS Monitoring
 
 
-### A Multi-Layered Security Solution for IDS Resilience
+### A Security Enchancement Layer for IDS Resilience
 
 ---
 
